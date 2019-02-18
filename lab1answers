@@ -1,11 +1,11 @@
-Q1. 12 cycles
+Q1. 10 cycles
 
-Q2. 1.500 cycles per instruction
+Q2. 2.000 cycles per instruction
 
-Q3. halt
+Q3. dadd r3,r4,r5
 
 Q4. RAW stall
 
-Q5. idk
+Q5.
 
 Q6. yeah okay
